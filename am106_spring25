@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
 
+
+  <head>
+    
+    <link rel="stylesheet" href="main.css">
+    
+  </head>
+
+
+  <body>
+
+  <div class="section">
+      <div class="container">
+
+  <h1>Applied Math 106: Algebra for Models and Data. </h1>
+
+<h3> Spring 2025, MW 3-4.15pm.</h3>
+
+<p> Algebra is the study of operations (such as addition and multiplication) on objects 
+(such as numbers, polynomials, and matrices).
+This course is an introduction to abstract algebra and its applications.
+Algebraic structure appears in problems in data analysis, modeling, and optimization. 
+We will cover the abstract algebra theory required to extract insights in such contexts.</p>
+
+<p> Recommended preparation for the course is familiarity with linear algebra (at the level of Math 21b) 
+and proofs (at the level of Math 22a, Math 101, or CS 20). Programming experience is helpful but not required.</p>
+
+<p> See <a href="spring25_syllabus.pdf">here</a> for the course syllabus.
+
+</body>
